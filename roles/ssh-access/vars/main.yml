@@ -1,0 +1,3 @@
+ssh_keys:
+  - ssh-rsa xxxx alice@example.com
+  - ssh-rsa xxxx bob@example.com
